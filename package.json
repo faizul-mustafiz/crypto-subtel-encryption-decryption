@@ -1,0 +1,23 @@
+{
+  "name": "crypto-subtel-encryption-decryption",
+  "version": "1.0.0",
+  "description": "It is an implementation of crypto-subtel encryption and decryption using aes-gsm of a message payload.",
+  "scripts": {
+    "encrypt": "node ./test/encryption.test.js",
+    "decrypt": "node ./test/decryption.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizul-mustafiz/crypto-subtel-encryption-decryption.git"
+  },
+  "keywords": [
+    "encryption",
+    "decryption"
+  ],
+  "author": "faizul-mustafiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizul-mustafiz/crypto-subtel-encryption-decryption/issues"
+  },
+  "homepage": "https://github.com/faizul-mustafiz/crypto-subtel-encryption-decryption#readme"
+}
